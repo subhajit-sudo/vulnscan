@@ -1,0 +1,11 @@
+# Temp files
+fix_crlf*.ps1
+embed_linpeas.ps1
+vulnscan_results_*/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
