@@ -5,15 +5,13 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-informational?style=for-the-badge&color=0D1117" />
 </p>
 
-<h1 align="center">🛡️ VulnScan</h1>
+<h1 align="center">
+  🛡️ VulnScan
+</h1>
 
-```
- __     __     _       _   _ ____   ____    _    _   _
- \ \   / /   _| |_ __ | \ | / ___| / ___|  / \  | \ | |
-  \ \ / / | | | | '_ \|  \| \___ \| |     / _ \ |  \| |
-   \ V /| |_| | | | | | |\  |___) | |___ / ___ \| |\  |
-    \_/  \__,_|_|_| |_|_| \_|____/ \____/_/   \_\_| \_|
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Advanced+Linux+Vulnerability+Scanner;Self-Contained+%7C+Zero+Dependencies+%7C+No+Root;Embedded+LinPEAS+%2B+Live+CVE+Database+Lookup;Bug+Bounty+%26+Penetration+Testing+Toolkit" alt="Typing SVG" />
+</p>
 
 <h3 align="center">🔥 Advanced Linux Vulnerability Scanner for Bug Bounty & Penetration Testing 🔥</h3>
 
