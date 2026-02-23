@@ -5,17 +5,20 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-informational?style=for-the-badge&color=0D1117" />
 </p>
 
-<h1 align="center">
-  <br>
-  <pre>
- ██╗   ██╗██╗   ██╗██╗     ███╗   ██╗███████╗ ██████╗ █████╗ ███╗   ██╗
- ██║   ██║██║   ██║██║     ████╗  ██║██╔════╝██╔════╝██╔══██╗████╗  ██║
- ██║   ██║██║   ██║██║     ██╔██╗ ██║███████╗██║     ███████║██╔██╗ ██║
- ╚██╗ ██╔╝██║   ██║██║     ██║╚██╗██║╚════██║██║     ██╔══██║██║╚██╗██║
-  ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║███████║╚██████╗██║  ██║██║ ╚████║
-   ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-  </pre>
-</h1>
+<h1 align="center">🛡️ VulnScan</h1>
+
+<p align="center">
+
+```
+██╗   ██╗██╗   ██╗██╗     ███╗   ██╗███████╗ ██████╗ █████╗ ███╗   ██╗
+██║   ██║██║   ██║██║     ████╗  ██║██╔════╝██╔════╝██╔══██╗████╗  ██║
+██║   ██║██║   ██║██║     ██╔██╗ ██║███████╗██║     ███████║██╔██╗ ██║
+╚██╗ ██╔╝██║   ██║██║     ██║╚██╗██║╚════██║██║     ██╔══██║██║╚██╗██║
+ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║███████║╚██████╗██║  ██║██║ ╚████║
+  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+</p>
 
 <h3 align="center">🔥 Advanced Linux Vulnerability Scanner for Bug Bounty & Penetration Testing 🔥</h3>
 
@@ -324,5 +327,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
   <b>Made with ❤️ for the InfoSec Community</b>
   <br>
   <br>
-  <a href="https://github.com/YOUR_USERNAME/vulnscan/stargazers">⭐ Star this repo if you found it useful!</a>
+  <a href="https://github.com/subhajit-sudo/vulnscan/stargazers">⭐ Star this repo if you found it useful!</a>
 </p>
