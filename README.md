@@ -89,7 +89,7 @@
 
 ```bash
 # Option A: Download from GitHub
-curl -LO https://raw.githubusercontent.com/YOUR_USERNAME/vulnscan/main/vulnscan.sh
+curl -LO https://raw.githubusercontent.com/subhajit-sudo/vulnscan/main/vulnscan.sh
 chmod +x vulnscan.sh
 
 # Option B: Transfer via SCP
